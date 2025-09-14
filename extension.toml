@@ -1,0 +1,12 @@
+id = "lprog"
+name = "\\lprog"
+version = "0.0.1"
+schema_version = 1
+authors = ["Your Name <you@example.com>"]
+description = "Zed support for the Lambda prog (\\lprog) language"
+repository = "https://github.com/Gaspartcho/zed-lprog"
+
+
+[grammars.lprog]
+repository = "https://github.com/Gaspartcho/tree-sitter-lprog"
+rev = "b202669932351e91c9e1b263b4174c08c65a9408"

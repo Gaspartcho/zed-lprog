@@ -1,0 +1,9 @@
+name = "Lambda Prog"
+grammar = "lprog"
+path_suffixes = ["lp"]
+line_comments = ["%%"]
+brackets = [
+	{ start = "%", end = "%", close = true, newline = false},
+  	{ start = "(", end = ")", close = true, newline = false},
+  # other pairs...
+]
