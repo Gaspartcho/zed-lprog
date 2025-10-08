@@ -15,7 +15,7 @@
 (string) @string
 
 
-["(" ")"] @punctuation.bracket
+["(" ")" "[" "]"] @punctuation.bracket
 
 
 "," @punctuation
