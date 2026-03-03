@@ -9,4 +9,4 @@ repository = "https://github.com/Gaspartcho/zed-lprog"
 
 [grammars.lprog]
 repository = "https://github.com/Gaspartcho/tree-sitter-lprog"
-rev = "6196255e5e86111cc8ca9c1c0d482ec4c13e61aa"
+rev = "1bef209d06775e4e1958177eae340809fa172e57"
